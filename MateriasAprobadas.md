@@ -1,8 +1,9 @@
 # Materias Aprobadas
 
-*Sistemas Operativos
-*Redes
-*Estadística
+- **Sistemas Operativos**
+- **Redes**
+- **Estadística**
+
 
 
 
